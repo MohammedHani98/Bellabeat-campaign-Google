@@ -1,4 +1,4 @@
-# Bellabeat-campaign-Google-R-version-
+# Bellabeat-campaign-Google
 ## Description
 - This project is an application of Google Data Analytics program
 - **Bellabeat** is high-tech company that manufactures health-focused smart products. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. The company develops wearables and accompanying products that monitor biometric and lifestyle data to help women better understand how their bodies work and make healthier choices.
